@@ -225,3 +225,6 @@ out/
 # Env
 .env
 .env.local
+
+# Python template's lib/ rule also catches frontend/src/lib
+!frontend/src/lib/
