@@ -1,3 +1,5 @@
+https://nonprofit-intel-ten.vercel.app/
+
 # Nonprofit Intelligence Platform
 
 A financial research and discovery platform for the nonprofit sector,
@@ -19,7 +21,7 @@ Next.js (Vercel) → FastAPI → PostgreSQL
 ## Status
 
 - [x] Stage 0: scaffolding, Docker, CI
-- [ ] Stage 1: prototype on ProPublica API
+- [x] Stage 1: prototype on ProPublica API
 - [ ] Stage 2: own ingestion pipeline (CA)
 - [ ] Stage 3: analytics + rankings
 - [ ] Stage 4: peer benchmarking
@@ -32,5 +34,6 @@ cd frontend; npm run dev    # frontend on :3000
 
 ## Screenshots
 
-<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/56e4b6cc-d606-4925-9f79-4e045897d6da" />
-<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/28cb2c52-fadd-4698-946e-7d6a72d728ba" />
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/2e52cd9b-3ccb-43a7-a570-188ac0a3d896" />
+
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/1e3bf748-fe23-4a4f-ae81-ad582a5acfd1" />
