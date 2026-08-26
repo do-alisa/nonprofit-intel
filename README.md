@@ -32,4 +32,5 @@ cd frontend; npm run dev    # frontend on :3000
 
 ## Screenshots
 
-(coming with Stage 1)
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/56e4b6cc-d606-4925-9f79-4e045897d6da" />
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/28cb2c52-fadd-4698-946e-7d6a72d728ba" />
