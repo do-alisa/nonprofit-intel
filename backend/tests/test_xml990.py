@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pytest
 
-from app.ingest.xml990 import UnsupportedFiling, Parsed990, parse_990
+from app.ingest.xml990 import Parsed990, UnsupportedFiling, parse_990
 
 FIXTURES = Path(__file__).parent / "fixtures"
 
