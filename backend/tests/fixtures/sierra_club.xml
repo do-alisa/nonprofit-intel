@@ -1,0 +1,2305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2025v4.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2026-04-27T15:31:28-05:00</ReturnTs>
+    <TaxPeriodEndDt>2025-06-30</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmEIN>941254756</PreparerFirmEIN>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>HOOD &amp; STRONG LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>2580 N 1ST ST STE 460</AddressLine1Txt>
+        <CityNm>SAN JOSE</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>95131</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2025-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>941153307</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+      </BusinessName>
+      <BusinessNameControlTxt>SIER</BusinessNameControlTxt>
+      <PhoneNum>4159775500</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>2101 WEBSTER STREET 1300</AddressLine1Txt>
+        <CityNm>OAKLAND</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94612</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>RAHEL MELAKU</PersonNm>
+      <PersonTitleTxt>CFO</PersonTitleTxt>
+      <PhoneNum>4159775500</PhoneNum>
+      <SignatureDt>2026-04-23</SignatureDt>
+      <DiscussWithPaidPreparerInd>1</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>MAGA E KISRIEV</PreparerPersonNm>
+      <PTIN>P01008919</PTIN>
+      <PhoneNum>4089988400</PhoneNum>
+    </PreparerPersonGrp>
+    <TaxYr>2025</TaxYr>
+    <BuildTS>2025-03-06 01:10:19Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="9">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001" accountingPeriodChangeCd="CHANGE OF ACCOUNTING PERIOD" accountingPeriodChangeApprvCd="REVENUE PROCEDURE 85-58 RULES APPLY">
+      <PrincipalOfficerNm>LOREN BLACKFORD</PrincipalOfficerNm>
+      <USAddress>
+        <AddressLine1Txt>2101 WEBSTER STREET 1300</AddressLine1Txt>
+        <CityNm>OAKLAND</CityNm>
+        <StateAbbreviationCd>CA</StateAbbreviationCd>
+        <ZIPCd>94612</ZIPCd>
+      </USAddress>
+      <GrossReceiptsAmt>93804687</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>0</GroupReturnForAffiliatesInd>
+      <Organization501cInd organization501cTypeTxt="4">X</Organization501cInd>
+      <WebsiteAddressTxt>WWW.SIERRACLUB.ORG</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>1892</FormationYr>
+      <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>TO EXPLORE, ENJOY, AND PROTECT THE WILD PLACES OF THE EARTH; PRACTICE AND PROMOTE RESPONSIBLE USE OF THE EARTH'S ECOSYSTEMS AND RESOURCES; EDUCATE AND ENLIST HUMANITY TO PROTECT AND RESTORE THE QUALITY OF THE NATURAL AND HUMAN ENVIRONMENT; AND USE ALL LAWFUL MEANS TO CARRY OUT THESE OBJECTIVES.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>15</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>14</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>0</TotalEmployeeCnt>
+      <TotalVolunteersCnt>10895</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>0</TotalGrossUBIAmt>
+      <NetUnrelatedBusTxblIncmAmt>0</NetUnrelatedBusTxblIncmAmt>
+      <PYContributionsGrantsAmt>151944458</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>75445313</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>12202564</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>6069884</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>2786511</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>2280843</CYInvestmentIncomeAmt>
+      <PYOtherRevenueAmt>2098337</PYOtherRevenueAmt>
+      <CYOtherRevenueAmt>-43050</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>169031870</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>83752990</CYTotalRevenueAmt>
+      <PYGrantsAndSimilarPaidAmt>868838</PYGrantsAndSimilarPaidAmt>
+      <CYGrantsAndSimilarPaidAmt>285875</CYGrantsAndSimilarPaidAmt>
+      <PYBenefitsPaidToMembersAmt>0</PYBenefitsPaidToMembersAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <PYSalariesCompEmpBnftPaidAmt>106506400</PYSalariesCompEmpBnftPaidAmt>
+      <CYSalariesCompEmpBnftPaidAmt>51691200</CYSalariesCompEmpBnftPaidAmt>
+      <PYTotalProfFndrsngExpnsAmt>1265069</PYTotalProfFndrsngExpnsAmt>
+      <CYTotalProfFndrsngExpnsAmt>337803</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>4008229</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>63160103</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>32580938</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>171800410</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>84895816</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>-2768540</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>-1142826</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>151587359</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>152292481</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>40333937</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>38926929</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>111253422</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>113365552</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIIInd>X</InfoInScheduleOPartIIIInd>
+      <MissionDesc>SEE SCHEDULE O.</MissionDesc>
+      <SignificantNewProgramSrvcInd>0</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>0</SignificantChangeInd>
+      <ExpenseAmt>40307662</ExpenseAmt>
+      <GrantAmt>285875</GrantAmt>
+      <RevenueAmt>40600</RevenueAmt>
+      <Desc>SEE SCHEDULE O.</Desc>
+      <ProgSrvcAccomActy2Grp>
+        <ExpenseAmt>13731592</ExpenseAmt>
+        <GrantAmt>0</GrantAmt>
+        <RevenueAmt>0</RevenueAmt>
+        <Desc>MEMBERSHIP, CHAPTER AND VOLUNTEER ACTIVITIES: SUPPORT AND FUNDING OF 64 VOLUNTEER-LED CHAPTERS AND APPROXIMATELY 446 GROUPS, BUILDING A BROAD-BASED VOLUNTEER MEMBERSHIP THAT HELPS ADVANCE THE ORGANIZATION'S ENVIRONMENTAL ADVOCACY, PUBLIC EDUCATION, AND COMMUNITY ORGANIZING TO ADVANCE ITS SOCIAL WELFARE MISSION. LOCAL AND STATES ACTIVITIES INCLUDE PUBLIC COMMUNICATION AND EDUCATION ON CLIMATE, ENVIRONMENTAL, AND CONSERVATION ISSUES; RAISING AWARENESS ABOUT CITY, COUNTY, AND STATE POLICIES; MOBILIZING MEMBERS AND SUPPORTERS TO TAKE ACTION ON LOCAL AND STATE ADVOCACY INITIATIVES; AND HOSTING COMMUNITY EVENTS.</Desc>
+      </ProgSrvcAccomActy2Grp>
+      <ProgSrvcAccomActy3Grp>
+        <ExpenseAmt>9333906</ExpenseAmt>
+        <GrantAmt>0</GrantAmt>
+        <RevenueAmt>823771</RevenueAmt>
+        <Desc>INFORMATION AND EDUCATION: CALENDAR &amp; OTHER MERCHANDISE, SIERRA (THE ORGANIZATION'S MAGAZINE), COMMUNICATIONS GROUP INCLUDES PRINT AND NON-PRINT MEDIA ACTIVITIES AND DIGITAL STRATEGIES (MISSION IS TO ALIGN THE ONLINE ACTIVITIES AND TECHNOLOGICAL INVESTMENTS WITH ITS BROADER GOALS OF ENVIRONMENTAL EDUCATION, ADVOCACY, AND PUBLIC ENGAGEMENT).SIERRA MAGAZINE: PUBLISHED 4 ISSUES PER YEAR WITH AN AVERAGE PRINT RUN IN EXCESS OF 355,000 MAGAZINES, EDUCATING READERS ON ENVIRONMENTAL STEWARDSHIP, RESPONSIBLE USE OF NATURAL RESOURCES, AND OPPORTUNITIES FOR CIVIC ACTION.CALENDAR &amp; OTHER MERCHANDISE: OFFERED SIERRA CLUB BRANDED MERCHANDISE ABOUT NATURE OR THE ENVIRONMENT FOR SALE DIRECTLY TO THE PUBLIC AND OTHER RESELLERS, SUPPORTING THE ORGANIZATION'S EDUCATIONAL AND ADVOCACY PROGRAMS.</Desc>
+      </ProgSrvcAccomActy3Grp>
+      <ProgSrvcAccomActyOtherGrp>
+        <ExpenseAmt>5240664</ExpenseAmt>
+        <GrantAmt>0</GrantAmt>
+        <RevenueAmt>5057900</RevenueAmt>
+        <Desc>OUTDOOR ACTIVITIES:IN 2025, SIERRA CLUB OUTINGS OFFERED IMPACTFUL OUTDOOR EXPERIENCES THAT CONNECTED PEOPLE TO NATURE WHILE ADVANCING ENVIRONMENTAL EDUCATION AND BRINGING MEMBERS TO THE ORGANIZATION'S LARGER CONSERVATION CAMPAIGNS. THROUGH LOCAL CHAPTERS, GROUPS, AND SECTIONS, AS WELL AS THE NATIONAL OUTINGS PROGRAM AND CAMPAIGN-SPECIFIC OUTINGS, TENS OF THOUSANDS OF PARTICIPANTS WERE ENGAGED IN WAYS THAT DEEPENED THEIR UNDERSTANDING OF ENVIRONMENTAL ISSUES. THE INSPIRING CONNECTIONS OUTDOORS (ICO) PROGRAM, FOR EXAMPLE, RAN 226 TRIPS FOR 4,265 YOUTH AND ADULTS - PRIMARILY FROM UNDERSERVED COMMUNITIES - PROVIDING HANDS-ON ENVIRONMENTAL EDUCATION ABOUT ECOSYSTEMS, CONSERVATION ISSUES, AND THE ROLE OF PUBLIC LANDS IN CLIMATE RESILIENCE. THE NATIONAL OUTINGS PROGRAM OFFERED 78 DOMESTIC AND 34 INTERNATIONAL TRIPS TO 1,274 PARTICIPANTS, INTEGRATING LEARNING ABOUT LOCAL FLORA, FAUNA, GEOLOGY, AND CONSERVATION HISTORY, OFTEN INCORPORATING VOLUNTEER WORK LIKE TRAIL RESTORATION TO BUILD AWARENESS OF HOW ENVIRONMENTAL STEWARDSHIP ALIGNS WITH SIERRA CLUB CAMPAIGNS. LOCAL CHAPTERS AND GROUPS ORGANIZED APPROXIMATELY 4,769 OUTINGS WITH 21,000 PARTICIPANTS, RANGING FROM NATURE HIKES TO ADVOCACY TRAINING, EDUCATING PEOPLE ON PRESSING REGIONAL ISSUES LIKE WATER CONSERVATION, HABITAT PROTECTION, AND CLIMATE CHANGE, AND EMPOWERING THEM TO TAKE ACTION. THE MILITARY OUTDOORS PROGRAM, AS PART OF OUTDOORS FOR ALL AND SUPPORTED BY LOCAL OUTINGS, SUPPORTED VETERANS AND ACTIVE MILITARY MEMBERS WITH THERAPEUTIC OUTDOOR EXPERIENCES THAT PROMOTED HEALING, CONSERVATION, AND ADVOCACY. ACROSS ALL PROGRAMS, SIERRA CLUB OUTINGS NOT ONLY CONNECTED MEMBERS TO NATURE BUT ALSO INSTILLED ENVIRONMENTAL VALUES AND A SENSE OF RESPONSIBILITY, REINFORCING THE CLUB'S MISSION TO EXPLORE, ENJOY, AND PROTECT THE PLANET THROUGH DIRECT EDUCATION AND ALIGNMENT WITH SIERRA CLUB'S CONSERVATION GOALS.</Desc>
+      </ProgSrvcAccomActyOtherGrp>
+      <TotalOtherProgSrvcExpenseAmt>5240664</TotalOtherProgSrvcExpenseAmt>
+      <TotalOtherProgSrvcGrantAmt>0</TotalOtherProgSrvcGrantAmt>
+      <TotalOtherProgSrvcRevenueAmt>5057900</TotalOtherProgSrvcRevenueAmt>
+      <TotalProgramServiceExpensesAmt>68613824</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind>0</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd referenceDocumentId="RetDoc1234500001">1</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd referenceDocumentId="RetDoc1039500001">1</PoliticalCampaignActyInd>
+      <SubjectToProxyTaxInd referenceDocumentId="RetDoc1039500001">1</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFundInd>
+      <ConservationEasementsInd referenceDocumentId="RetDoc1040000001">0</ConservationEasementsInd>
+      <CollectionsOfArtInd referenceDocumentId="RetDoc1040000001">1</CollectionsOfArtInd>
+      <CreditCounselingInd referenceDocumentId="RetDoc1040000001">0</CreditCounselingInd>
+      <DonorRstrOrQuasiEndowmentsInd>1</DonorRstrOrQuasiEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="RetDoc1040000001">1</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd referenceDocumentId="RetDoc1040000001">1</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd referenceDocumentId="RetDoc1040000001">0</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd referenceDocumentId="RetDoc1040000001">1</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd referenceDocumentId="RetDoc1040000001">1</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>0</SchoolOperatingInd>
+      <ForeignOfficeInd>0</ForeignOfficeInd>
+      <ForeignActivitiesInd>0</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>0</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>0</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd referenceDocumentId="RetDoc1041200001">1</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd referenceDocumentId="RetDoc1041200001">0</FundraisingActivitiesInd>
+      <GamingActivitiesInd referenceDocumentId="RetDoc1041200001">0</GamingActivitiesInd>
+      <OperateHospitalInd>0</OperateHospitalInd>
+      <GrantsToOrganizationsInd referenceDocumentId="RetDoc1041900001">1</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd referenceDocumentId="RetDoc1041900001">0</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd>0</ScheduleJRequiredInd>
+      <TaxExemptBondsInd>0</TaxExemptBondsInd>
+      <EngagedInExcessBenefitTransInd>0</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>0</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>0</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>0</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>0</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>0</BusinessRlnWithFamMemInd>
+      <BusinessRlnWith35CtrlEntInd>0</BusinessRlnWith35CtrlEntInd>
+      <DeductibleNonCashContriInd referenceDocumentId="RetDoc1042900001">1</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd referenceDocumentId="RetDoc1042900001">0</DeductibleArtContributionInd>
+      <TerminateOperationsInd>0</TerminateOperationsInd>
+      <PartialLiquidationInd>0</PartialLiquidationInd>
+      <DisregardedEntityInd referenceDocumentId="RetDoc1043400001">0</DisregardedEntityInd>
+      <RelatedEntityInd referenceDocumentId="RetDoc1043400001">1</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>1</RelatedOrganizationCtrlEntInd>
+      <TransactionWithControlEntInd referenceDocumentId="RetDoc1043400001">0</TransactionWithControlEntInd>
+      <ActivitiesConductedPrtshpInd referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>1</ScheduleORequiredInd>
+      <IRPDocumentCnt>0</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <EmployeeCnt>0</EmployeeCnt>
+      <UnrelatedBusIncmOverLimitInd>0</UnrelatedBusIncmOverLimitInd>
+      <ForeignFinancialAccountInd>0</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>0</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>0</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>1</NondeductibleContributionsInd>
+      <NondeductibleContriDisclInd>1</NondeductibleContriDisclInd>
+      <IndoorTanningServicesInd>0</IndoorTanningServicesInd>
+      <SubjToTaxRmnrtnExPrchtPymtInd>0</SubjToTaxRmnrtnExPrchtPymtInd>
+      <SubjectToExcsTaxNetInvstIncInd>0</SubjectToExcsTaxNetInvstIncInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>15</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>14</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>0</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>0</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>0</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>0</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>1</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>1</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>1</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>1</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>1</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>0</OfficerMailingAddressInd>
+      <LocalChaptersInd>1</LocalChaptersInd>
+      <PoliciesReferenceChaptersInd>1</PoliciesReferenceChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>1</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>1</ConflictOfInterestPolicyInd>
+      <AnnualDisclosureCoveredPrsnInd>1</AnnualDisclosureCoveredPrsnInd>
+      <RegularMonitoringEnfrcInd>1</RegularMonitoringEnfrcInd>
+      <WhistleblowerPolicyInd>1</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>1</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>1</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>1</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>0</InvestmentInJointVentureInd>
+      <StatesWhereCopyOfReturnIsFldCd>AL</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>AR</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>CA</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>FL</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>GA</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>HI</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>IL</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>KS</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>KY</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>LA</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>MD</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>MA</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>MN</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>MS</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>NH</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>NJ</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>NY</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>NC</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>OK</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>OR</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>PA</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>RI</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>SC</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>TN</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>UT</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>VA</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>WV</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>WI</StatesWhereCopyOfReturnIsFldCd>
+      <StatesWhereCopyOfReturnIsFldCd>ND</StatesWhereCopyOfReturnIsFldCd>
+      <OwnWebsiteInd>X</OwnWebsiteInd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <BusinessName>
+          <BusinessNameLine1Txt>RAHEL MELAKU</BusinessNameLine1Txt>
+        </BusinessName>
+        <PhoneNum>4159775500</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>2101 WEBSTER ST STE 1300</AddressLine1Txt>
+          <CityNm>OAKLAND</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94612</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <InfoInScheduleOPartVIIInd>X</InfoInScheduleOPartVIIInd>
+      <NoListedPersonsCompensatedInd>X</NoListedPersonsCompensatedInd>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>PATRICK MURPHY</PersonNm>
+        <TitleTxt>PRESIDENT (EFF 06/25)</TitleTxt>
+        <AverageHoursPerWeekRt>30.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>ALLISON CHIN</PersonNm>
+        <TitleTxt>PRESIDENT (THRU 05/25)</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>SHRUTI BHATNAGAR</PersonNm>
+        <TitleTxt>VICE PRESIDENT</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>ERICA HALL</PersonNm>
+        <TitleTxt>VICE PRESIDENT</TitleTxt>
+        <AverageHoursPerWeekRt>30.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>DAVID SCOTT</PersonNm>
+        <TitleTxt>SECRETARY</TitleTxt>
+        <AverageHoursPerWeekRt>15.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CHEYENNE SKYE BRANSCUM</PersonNm>
+        <TitleTxt>TREASURER</TitleTxt>
+        <AverageHoursPerWeekRt>45.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>NATHAN CHAN</PersonNm>
+        <TitleTxt>DIRECTOR (EFF 06/25)</TitleTxt>
+        <AverageHoursPerWeekRt>10.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CLAYTON DAUGHENBAUGH</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>40.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>SCOTT ELKINS</PersonNm>
+        <TitleTxt>DIRECTOR (EFF 06/25)</TitleTxt>
+        <AverageHoursPerWeekRt>5.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>RITA HARRIS</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>10.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CYNTHIA HOYLE</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>15.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>DAVID HOLTZ</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>15.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>DAVID KARPF</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>5.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>KARL PALMQUIST</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>10.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MEGHAN SAHLI-WELLS</PersonNm>
+        <TitleTxt>DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>20.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>IGOR TREGUB</PersonNm>
+        <TitleTxt>DIRECTOR (EFF 06/25)</TitleTxt>
+        <AverageHoursPerWeekRt>5.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MICHAEL DORSEY</PersonNm>
+        <TitleTxt>DIRECTOR (THRU 05/25)</TitleTxt>
+        <AverageHoursPerWeekRt>2.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>AARON MAIR</PersonNm>
+        <TitleTxt>DIRECTOR (THRU 05/25)</TitleTxt>
+        <AverageHoursPerWeekRt>7.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.01</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>BEN JEALOUS</PersonNm>
+        <TitleTxt>EXECUTIVE DIRECTOR</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>ADRIENNE FRAZIER</PersonNm>
+        <TitleTxt>CFO, ASSIST. TREASURER (THRU 06/25)</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>KRISTIN MACKLIN</PersonNm>
+        <TitleTxt>DEPUTY CFO, ASST TREAS(THRU 03/25)</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>RAHEL MELAKU</PersonNm>
+        <TitleTxt>ACTING CFO (AS OF 06/25)</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>SAM KIMBALL</PersonNm>
+        <TitleTxt>SR DIR FIN OPS/ASST TREAS (EFF 06/25)</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>ANNE KENNEY</PersonNm>
+        <TitleTxt>DIR, FIN ANLYS &amp; BDGT SYS/ASST SEC</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>DONNA BROWN</PersonNm>
+        <TitleTxt>GEN COUNSEL OF GEN ADMIN/ASST SEC</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MICHAEL PARRISH</PersonNm>
+        <TitleTxt>CHIEF OPERATING OFFICER/ASST SEC</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>ERICA MCKINLEY</PersonNm>
+        <TitleTxt>CHIEF LEG OFF/ASST SEC (THRU 01/25)</TitleTxt>
+        <AverageHoursPerWeekRt>50.00</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.00</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <IndivRcvdGreaterThan100KCnt>0</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>0</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>0</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>0</CompensationFromOtherSrcsInd>
+      <CntrctRcvdGreaterThan100KCnt>0</CntrctRcvdGreaterThan100KCnt>
+      <MembershipDuesAmt>9314600</MembershipDuesAmt>
+      <FundraisingAmt>8755</FundraisingAmt>
+      <AllOtherContributionsAmt>66121958</AllOtherContributionsAmt>
+      <NoncashContributionsAmt>303394</NoncashContributionsAmt>
+      <TotalContributionsAmt>75445313</TotalContributionsAmt>
+      <ProgramServiceRevenueGrp>
+        <Desc>OUTINGS/LODGE PROGRAMS</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>5057900</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>5057900</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>OTHER PROGRAM SERV REV</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>825894</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>825894</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>PUBLICATION INCOME</Desc>
+        <BusinessCd>541800</BusinessCd>
+        <TotalRevenueColumnAmt>186090</TotalRevenueColumnAmt>
+        <ExclusionAmt>186090</ExclusionAmt>
+      </ProgramServiceRevenueGrp>
+      <TotalProgramServiceRevenueAmt>6069884</TotalProgramServiceRevenueAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>1137500</TotalRevenueColumnAmt>
+        <ExclusionAmt>1137500</ExclusionAmt>
+      </InvestmentIncomeGrp>
+      <RoyaltiesRevenueGrp>
+        <TotalRevenueColumnAmt>106353</TotalRevenueColumnAmt>
+        <ExclusionAmt>106353</ExclusionAmt>
+      </RoyaltiesRevenueGrp>
+      <GrossAmountSalesAssetsGrp>
+        <SecuritiesAmt>10888200</SecuritiesAmt>
+      </GrossAmountSalesAssetsGrp>
+      <LessCostOthBasisSalesExpnssGrp>
+        <SecuritiesAmt>9744857</SecuritiesAmt>
+      </LessCostOthBasisSalesExpnssGrp>
+      <GainOrLossGrp>
+        <SecuritiesAmt>1143343</SecuritiesAmt>
+      </GainOrLossGrp>
+      <NetGainOrLossInvestmentsGrp>
+        <TotalRevenueColumnAmt>1143343</TotalRevenueColumnAmt>
+        <ExclusionAmt>1143343</ExclusionAmt>
+      </NetGainOrLossInvestmentsGrp>
+      <FundraisingGrossIncomeAmt>274</FundraisingGrossIncomeAmt>
+      <ContriRptFundraisingEventAmt>8755</ContriRptFundraisingEventAmt>
+      <FundraisingDirectExpensesAmt>2064</FundraisingDirectExpensesAmt>
+      <NetIncmFromFundraisingEvtGrp>
+        <TotalRevenueColumnAmt>-1790</TotalRevenueColumnAmt>
+        <ExclusionAmt>-1790</ExclusionAmt>
+      </NetIncmFromFundraisingEvtGrp>
+      <GrossSalesOfInventoryAmt>109400</GrossSalesOfInventoryAmt>
+      <CostOfGoodsSoldAmt>304776</CostOfGoodsSoldAmt>
+      <NetIncomeOrLossGrp>
+        <TotalRevenueColumnAmt>-195376</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>-195376</RelatedOrExemptFuncIncomeAmt>
+      </NetIncomeOrLossGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>LITIGATION AWARD FEES</Desc>
+        <BusinessCd>541100</BusinessCd>
+        <TotalRevenueColumnAmt>40600</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>40600</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>SUBSCRIPTIONS</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>7163</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>7163</RelatedOrExemptFuncIncomeAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueTotalAmt>47763</OtherRevenueTotalAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>83752990</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>5736181</RelatedOrExemptFuncIncomeAmt>
+        <UnrelatedBusinessRevenueAmt>0</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>2571496</ExclusionAmt>
+      </TotalRevenueGrp>
+      <InfoInScheduleOPartIXInd>X</InfoInScheduleOPartIXInd>
+      <GrantsToDomesticOrgsGrp>
+        <TotalAmt>285875</TotalAmt>
+        <ProgramServicesAmt>285875</ProgramServicesAmt>
+      </GrantsToDomesticOrgsGrp>
+      <CompCurrentOfcrDirectorsGrp>
+        <TotalAmt>1169494</TotalAmt>
+        <ProgramServicesAmt>120673</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1009464</ManagementAndGeneralAmt>
+        <FundraisingAmt>39357</FundraisingAmt>
+      </CompCurrentOfcrDirectorsGrp>
+      <OtherSalariesAndWagesGrp>
+        <TotalAmt>40203392</TotalAmt>
+        <ProgramServicesAmt>33734352</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>3504630</ManagementAndGeneralAmt>
+        <FundraisingAmt>2964410</FundraisingAmt>
+      </OtherSalariesAndWagesGrp>
+      <PensionPlanContributionsGrp>
+        <TotalAmt>1787836</TotalAmt>
+        <ProgramServicesAmt>1462969</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>195066</ManagementAndGeneralAmt>
+        <FundraisingAmt>129801</FundraisingAmt>
+      </PensionPlanContributionsGrp>
+      <OtherEmployeeBenefitsGrp>
+        <TotalAmt>5206984</TotalAmt>
+        <ProgramServicesAmt>4260824</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>568121</ManagementAndGeneralAmt>
+        <FundraisingAmt>378039</FundraisingAmt>
+      </OtherEmployeeBenefitsGrp>
+      <PayrollTaxesGrp>
+        <TotalAmt>3323494</TotalAmt>
+        <ProgramServicesAmt>2719583</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>362618</ManagementAndGeneralAmt>
+        <FundraisingAmt>241293</FundraisingAmt>
+      </PayrollTaxesGrp>
+      <FeesForServicesLegalGrp>
+        <TotalAmt>4674200</TotalAmt>
+        <ProgramServicesAmt>2369000</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>2303800</ManagementAndGeneralAmt>
+        <FundraisingAmt>1400</FundraisingAmt>
+      </FeesForServicesLegalGrp>
+      <FeesForServicesAccountingGrp>
+        <TotalAmt>164817</TotalAmt>
+        <ManagementAndGeneralAmt>164817</ManagementAndGeneralAmt>
+      </FeesForServicesAccountingGrp>
+      <FeesForServicesLobbyingGrp>
+        <TotalAmt>615864</TotalAmt>
+        <ProgramServicesAmt>615864</ProgramServicesAmt>
+      </FeesForServicesLobbyingGrp>
+      <FeesForServicesProfFundraising>
+        <TotalAmt>337803</TotalAmt>
+        <FundraisingAmt>337803</FundraisingAmt>
+      </FeesForServicesProfFundraising>
+      <FeesForSrvcInvstMgmntFeesGrp>
+        <TotalAmt>220000</TotalAmt>
+        <ManagementAndGeneralAmt>220000</ManagementAndGeneralAmt>
+      </FeesForSrvcInvstMgmntFeesGrp>
+      <FeesForServicesOtherGrp>
+        <TotalAmt>14761657</TotalAmt>
+        <ProgramServicesAmt>10101165</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1301546</ManagementAndGeneralAmt>
+        <FundraisingAmt>3358946</FundraisingAmt>
+      </FeesForServicesOtherGrp>
+      <AdvertisingGrp>
+        <TotalAmt>739800</TotalAmt>
+        <ProgramServicesAmt>655700</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>2500</ManagementAndGeneralAmt>
+        <FundraisingAmt>81600</FundraisingAmt>
+      </AdvertisingGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>4180100</TotalAmt>
+        <ProgramServicesAmt>2373900</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>894500</ManagementAndGeneralAmt>
+        <FundraisingAmt>911700</FundraisingAmt>
+      </OfficeExpensesGrp>
+      <InformationTechnologyGrp>
+        <TotalAmt>450754</TotalAmt>
+        <ProgramServicesAmt>416554</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>28900</ManagementAndGeneralAmt>
+        <FundraisingAmt>5300</FundraisingAmt>
+      </InformationTechnologyGrp>
+      <RoyaltiesGrp>
+        <TotalAmt>189400</TotalAmt>
+        <ProgramServicesAmt>189400</ProgramServicesAmt>
+      </RoyaltiesGrp>
+      <OccupancyGrp>
+        <TotalAmt>2726246</TotalAmt>
+        <ProgramServicesAmt>1732546</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>863400</ManagementAndGeneralAmt>
+        <FundraisingAmt>130300</FundraisingAmt>
+      </OccupancyGrp>
+      <TravelGrp>
+        <TotalAmt>3071800</TotalAmt>
+        <ProgramServicesAmt>2330200</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>513700</ManagementAndGeneralAmt>
+        <FundraisingAmt>227900</FundraisingAmt>
+      </TravelGrp>
+      <DepreciationDepletionGrp>
+        <TotalAmt>558800</TotalAmt>
+        <ProgramServicesAmt>434200</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>76100</ManagementAndGeneralAmt>
+        <FundraisingAmt>48500</FundraisingAmt>
+      </DepreciationDepletionGrp>
+      <InsuranceGrp>
+        <TotalAmt>700800</TotalAmt>
+        <ProgramServicesAmt>554200</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>118900</ManagementAndGeneralAmt>
+        <FundraisingAmt>27700</FundraisingAmt>
+      </InsuranceGrp>
+      <OtherExpensesGrp>
+        <Desc>PRINTING &amp; PUBLICATION</Desc>
+        <TotalAmt>2681500</TotalAmt>
+        <ProgramServicesAmt>2122500</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>137100</ManagementAndGeneralAmt>
+        <FundraisingAmt>421900</FundraisingAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>LODGE/OUTING FIELD EXP</Desc>
+        <TotalAmt>680300</TotalAmt>
+        <ProgramServicesAmt>680100</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>200</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>SIERRA COGS</Desc>
+        <TotalAmt>228124</TotalAmt>
+        <ProgramServicesAmt>79677</ProgramServicesAmt>
+        <FundraisingAmt>148447</FundraisingAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>MEMBERSHIP</Desc>
+        <TotalAmt>217061</TotalAmt>
+        <ProgramServicesAmt>217061</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <AllOtherExpensesGrp>
+        <TotalAmt>-4280285</TotalAmt>
+        <ProgramServicesAmt>1157481</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>8401</ManagementAndGeneralAmt>
+        <FundraisingAmt>-5446167</FundraisingAmt>
+      </AllOtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>84895816</TotalAmt>
+        <ProgramServicesAmt>68613824</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>12273763</ManagementAndGeneralAmt>
+        <FundraisingAmt>4008229</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <SavingsAndTempCashInvstGrp>
+        <BOYAmt>43841359</BOYAmt>
+        <EOYAmt>44636281</EOYAmt>
+      </SavingsAndTempCashInvstGrp>
+      <PledgesAndGrantsReceivableGrp>
+        <BOYAmt>10829600</BOYAmt>
+        <EOYAmt>9146500</EOYAmt>
+      </PledgesAndGrantsReceivableGrp>
+      <AccountsReceivableGrp>
+        <BOYAmt>6069700</BOYAmt>
+        <EOYAmt>3101500</EOYAmt>
+      </AccountsReceivableGrp>
+      <InventoriesForSaleOrUseGrp>
+        <BOYAmt>137200</BOYAmt>
+        <EOYAmt>530300</EOYAmt>
+      </InventoriesForSaleOrUseGrp>
+      <PrepaidExpensesDefrdChargesGrp>
+        <BOYAmt>3609500</BOYAmt>
+        <EOYAmt>4377600</EOYAmt>
+      </PrepaidExpensesDefrdChargesGrp>
+      <LandBldgEquipCostOrOtherBssAmt>12632600</LandBldgEquipCostOrOtherBssAmt>
+      <LandBldgEquipAccumDeprecAmt>9110400</LandBldgEquipAccumDeprecAmt>
+      <LandBldgEquipBasisNetGrp>
+        <BOYAmt>4080800</BOYAmt>
+        <EOYAmt>3522200</EOYAmt>
+      </LandBldgEquipBasisNetGrp>
+      <InvestmentsPubTradedSecGrp>
+        <BOYAmt>55573600</BOYAmt>
+        <EOYAmt>60462600</EOYAmt>
+      </InvestmentsPubTradedSecGrp>
+      <InvestmentsOtherSecuritiesGrp>
+        <BOYAmt>16271100</BOYAmt>
+        <EOYAmt>15933700</EOYAmt>
+      </InvestmentsOtherSecuritiesGrp>
+      <OtherAssetsTotalGrp>
+        <BOYAmt>11174500</BOYAmt>
+        <EOYAmt>10581800</EOYAmt>
+      </OtherAssetsTotalGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>151587359</BOYAmt>
+        <EOYAmt>152292481</EOYAmt>
+      </TotalAssetsGrp>
+      <AccountsPayableAccrExpnssGrp>
+        <BOYAmt>21386500</BOYAmt>
+        <EOYAmt>22454100</EOYAmt>
+      </AccountsPayableAccrExpnssGrp>
+      <DeferredRevenueGrp>
+        <BOYAmt>2055437</BOYAmt>
+        <EOYAmt>3071729</EOYAmt>
+      </DeferredRevenueGrp>
+      <OtherLiabilitiesGrp>
+        <BOYAmt>16892000</BOYAmt>
+        <EOYAmt>13401100</EOYAmt>
+      </OtherLiabilitiesGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>40333937</BOYAmt>
+        <EOYAmt>38926929</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsFASB117Ind>X</OrganizationFollowsFASB117Ind>
+      <NoDonorRestrictionNetAssetsGrp>
+        <BOYAmt>59818000</BOYAmt>
+        <EOYAmt>61838900</EOYAmt>
+      </NoDonorRestrictionNetAssetsGrp>
+      <DonorRestrictionNetAssetsGrp>
+        <BOYAmt>51435422</BOYAmt>
+        <EOYAmt>51526652</EOYAmt>
+      </DonorRestrictionNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>111253422</BOYAmt>
+        <EOYAmt>113365552</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>151587359</BOYAmt>
+        <EOYAmt>152292481</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <InfoInScheduleOPartXIInd>X</InfoInScheduleOPartXIInd>
+      <ReconcilationRevenueExpnssAmt>-1142826</ReconcilationRevenueExpnssAmt>
+      <NetUnrlzdGainsLossesInvstAmt>2020256</NetUnrlzdGainsLossesInvstAmt>
+      <OtherChangesInNetAssetsAmt>1234700</OtherChangesInNetAssetsAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AccountantCompileOrReviewInd>0</AccountantCompileOrReviewInd>
+      <FSAuditedInd>1</FSAuditedInd>
+      <FSAuditedBasisGrp>
+        <SeparateBasisFinclStmtInd>X</SeparateBasisFinclStmtInd>
+      </FSAuditedBasisGrp>
+      <AuditCommitteeInd>1</AuditCommitteeInd>
+      <FederalGrantAuditRequiredInd>0</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleC documentId="RetDoc1039500001">
+      <PoliticalExpendituresAmt>370723</PoliticalExpendituresAmt>
+      <VolunteerHoursCnt>5797</VolunteerHoursCnt>
+      <Expended527ActivitiesAmt>516</Expended527ActivitiesAmt>
+      <InternalFundsContributedAmt>16376</InternalFundsContributedAmt>
+      <TotalExemptFunctionExpendAmt>16892</TotalExemptFunctionExpendAmt>
+      <Form1120POLFiledInd>1</Form1120POLFiledInd>
+      <SubstantiallyAllDuesNondedInd>1</SubstantiallyAllDuesNondedInd>
+      <OnlyInHouseLobbyingInd>0</OnlyInHouseLobbyingInd>
+      <AgreeCarryoverPriorYearInd>0</AgreeCarryoverPriorYearInd>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART I-A, LINE 1:</FormAndLineReferenceDesc>
+        <ExplanationTxt>SIERRA CLUB PROVIDES ADMINISTRATIVE AND FUNDRAISING SUPPORT TO ITS SEPARATE SEGREGATED FUNDS (SIERRA CLUB POLITICAL COMMITTEE AND SIERRA CLUB VOTER EDUCATION FUND AND STATE POLITICAL ORGANIZATIONS) AND COMMUNICATES WITH ITS MEMBERS AND OTHERS ABOUT CANDIDATES, INCLUDING EXPRESSLY ADVOCATING FOR THEIR ELECTION OR DEFEAT, AS PERMITTED UNDER FEDERAL AND STATE LAW.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleC>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <CollectionUsedPubExhibitionInd>X</CollectionUsedPubExhibitionInd>
+      <CollectionUsedPreservationInd>X</CollectionUsedPreservationInd>
+      <SolicitedAssetsSaleInd>0</SolicitedAssetsSaleInd>
+      <CYEndwmtFundGrp>
+        <BeginningYearBalanceAmt>41725600</BeginningYearBalanceAmt>
+        <ContributionsAmt>414400</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>5928300</InvestmentEarningsOrLossesAmt>
+        <OtherExpendituresAmt>1921000</OtherExpendituresAmt>
+        <EndYearBalanceAmt>46147300</EndYearBalanceAmt>
+      </CYEndwmtFundGrp>
+      <CYMinus1YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>41434800</BeginningYearBalanceAmt>
+        <ContributionsAmt>742200</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>1580600</InvestmentEarningsOrLossesAmt>
+        <OtherExpendituresAmt>2032000</OtherExpendituresAmt>
+        <EndYearBalanceAmt>41725600</EndYearBalanceAmt>
+      </CYMinus1YrEndwmtFundGrp>
+      <CYMinus2YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>37414900</BeginningYearBalanceAmt>
+        <ContributionsAmt>737400</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>5253500</InvestmentEarningsOrLossesAmt>
+        <OtherExpendituresAmt>1971000</OtherExpendituresAmt>
+        <EndYearBalanceAmt>41434800</EndYearBalanceAmt>
+      </CYMinus2YrEndwmtFundGrp>
+      <CYMinus3YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>43098600</BeginningYearBalanceAmt>
+        <ContributionsAmt>1073300</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>-4838400</InvestmentEarningsOrLossesAmt>
+        <OtherExpendituresAmt>1918600</OtherExpendituresAmt>
+        <EndYearBalanceAmt>37414900</EndYearBalanceAmt>
+      </CYMinus3YrEndwmtFundGrp>
+      <CYMinus4YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>37048700</BeginningYearBalanceAmt>
+        <ContributionsAmt>1348100</ContributionsAmt>
+        <InvestmentEarningsOrLossesAmt>6351800</InvestmentEarningsOrLossesAmt>
+        <OtherExpendituresAmt>1650000</OtherExpendituresAmt>
+        <EndYearBalanceAmt>43098600</EndYearBalanceAmt>
+      </CYMinus4YrEndwmtFundGrp>
+      <BoardDesignatedBalanceEOYPct>0.00000</BoardDesignatedBalanceEOYPct>
+      <PrmnntEndowmentBalanceEOYPct>1.00000</PrmnntEndowmentBalanceEOYPct>
+      <TermEndowmentBalanceEOYPct>0.00000</TermEndowmentBalanceEOYPct>
+      <EndowmentsHeldUnrelatedOrgInd>0</EndowmentsHeldUnrelatedOrgInd>
+      <EndowmentsHeldRelatedOrgInd>0</EndowmentsHeldRelatedOrgInd>
+      <BuildingsGrp>
+        <OtherCostOrOtherBasisAmt>649303</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>641999</DepreciationAmt>
+        <BookValueAmt>7304</BookValueAmt>
+      </BuildingsGrp>
+      <LeaseholdImprovementsGrp>
+        <OtherCostOrOtherBasisAmt>9654497</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>6960107</DepreciationAmt>
+        <BookValueAmt>2694390</BookValueAmt>
+      </LeaseholdImprovementsGrp>
+      <EquipmentGrp>
+        <OtherCostOrOtherBasisAmt>2298793</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>1508294</DepreciationAmt>
+        <BookValueAmt>790499</BookValueAmt>
+      </EquipmentGrp>
+      <OtherLandBuildingsGrp>
+        <OtherCostOrOtherBasisAmt>30007</OtherCostOrOtherBasisAmt>
+        <BookValueAmt>30007</BookValueAmt>
+      </OtherLandBuildingsGrp>
+      <TotalBookValueLandBuildingsAmt>3522200</TotalBookValueLandBuildingsAmt>
+      <OtherSecuritiesGrp>
+        <Desc>PRIVATE GLOBAL EQUITIES FUNDS</Desc>
+        <BookValueAmt>15476500</BookValueAmt>
+        <MethodValuationCd>F</MethodValuationCd>
+      </OtherSecuritiesGrp>
+      <OtherSecuritiesGrp>
+        <Desc>GREEN ALPHA INVESTMENTS</Desc>
+        <BookValueAmt>457200</BookValueAmt>
+        <MethodValuationCd>F</MethodValuationCd>
+      </OtherSecuritiesGrp>
+      <TotalBookValueSecuritiesAmt>15933700</TotalBookValueSecuritiesAmt>
+      <OtherAssetsOrgGrp>
+        <Desc>ADVANCES AND DEPOSITS</Desc>
+        <BookValueAmt>420300</BookValueAmt>
+      </OtherAssetsOrgGrp>
+      <OtherAssetsOrgGrp>
+        <Desc>RIGHT-OF-USE ASSETS</Desc>
+        <BookValueAmt>9513500</BookValueAmt>
+      </OtherAssetsOrgGrp>
+      <OtherAssetsOrgGrp>
+        <Desc>OVERFUNDED PENSION ASSET</Desc>
+        <BookValueAmt>648000</BookValueAmt>
+      </OtherAssetsOrgGrp>
+      <TotalBookValueOtherAssetsAmt>10581800</TotalBookValueOtherAssetsAmt>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>DEFERRED LEASE LIABILITY</Desc>
+        <Amt>13401100</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <TotalLiabilityAmt>13401100</TotalLiabilityAmt>
+      <FootnoteTextInd>X</FootnoteTextInd>
+      <TotalRevEtcAuditedFinclStmtAmt>91745700</TotalRevEtcAuditedFinclStmtAmt>
+      <NetUnrealizedGainsInvstAmt>2020256</NetUnrealizedGainsInvstAmt>
+      <DonatedServicesAndUseFcltsAmt>18800</DonatedServicesAndUseFcltsAmt>
+      <OtherRevenueAmt>5953654</OtherRevenueAmt>
+      <RevenueNotReportedAmt>7992710</RevenueNotReportedAmt>
+      <RevenueSubtotalAmt>83752990</RevenueSubtotalAmt>
+      <RevenueNotReportedFinclStmtAmt>0</RevenueNotReportedFinclStmtAmt>
+      <TotalRevenuePerForm990Amt>83752990</TotalRevenuePerForm990Amt>
+      <TotExpnsEtcAuditedFinclStmtAmt>89565500</TotExpnsEtcAuditedFinclStmtAmt>
+      <DonatedServicesUseFcltsAmt>18800</DonatedServicesUseFcltsAmt>
+      <OtherExpensesIncludedAmt>4650884</OtherExpensesIncludedAmt>
+      <ExpensesNotReportedAmt>4669684</ExpensesNotReportedAmt>
+      <ExpensesSubtotalAmt>84895816</ExpensesSubtotalAmt>
+      <ExpensesNotRptFinclStmtAmt>0</ExpensesNotRptFinclStmtAmt>
+      <TotalExpensesPerForm990Amt>84895816</TotalExpensesPerForm990Amt>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART III, LINE 1A:</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE CLUB DOES NOT CAPITALIZE DONATED PAINTINGS, PHOTOGRAPHS, AND RARE BOOKS, AS THESE ITEMS ARE HELD FOR PUBLIC EXHIBITION, EDUCATION, OR RESEARCH IN FURTHERANCE OF PUBLIC SERVICE AND ARE PROTECTED AND CARED FOR BY THE CLUB THROUGHOUT THE LIFE OF THE ASSETS. AUDITED FINANCIAL STATEMENTS, FOOTNOTE 1.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART III, LINE 4:</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE SIERRA CLUB'S FINE ART AND LIBRARY COLLECTIONS SERVE AS REFERENCE MATERIALS FOR CLUB STAFF, MEMBERS, AND PUBLIC RESEARCHERS. THEY PROVIDE AN EDUCATIONAL RESOURCE ABOUT THE HISTORY OF THE SIERRA CLUB AS WELL AS ENVIRONMENTAL AND MOUNTAINEERING HISTORY, AND CURRENT ENVIRONMENTAL TOPICS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART V, LINE 4:</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE CLUB'S ENDOWMENT CONSISTS OF A LIFE MEMBER FUND AND A DONOR-RESTRICTED FUND ESTABLISHED TO FURTHER THE MISSION OF THE CLUB. THE ORGANIZATION'S OBJECTIVE IS TO MAINTAIN THE FAIR VALUE OF THE ENDOWMENT ASSETS HELD IN PERPETUITY AS WELL AS TO PROVIDE ADDITIONAL REAL GROWTH THROUGH NEW GIFTS AND INVESTMENT RETURN IN ACCORDANCE WITH CUPMIFA REQUIREMENTS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART X, LINE 2:</FormAndLineReferenceDesc>
+        <ExplanationTxt>BASED ON RECOGNITION BY THE INTERNAL REVENUE SERVICE AND CALIFORNIA FRANCHISE TAX BOARD, THE CLUB'S RELATED SOURCES OF REVENUE ARE EXEMPT FROM FEDERAL INCOME AND CALIFORNIA FRANCHISE TAXES UNDER INTERNAL REVENUE CODE SECTION 501(C)(4) AND CALIFORNIA REVENUE AND TAXATION CODE SECTION 23701F, RESPECTIVELY. HOWEVER, CERTAIN ACTIVITIES NOT DIRECTLY RELATED TO THE CLUB'S TAX-EXEMPT PURPOSES ARE SUBJECT TO FEDERAL AND STATE INCOME TAXES. NO INCOME TAX PROVISION HAS BEEN RECORDED AS THE NET INCOME, IF ANY, FROM ANY UNRELATED TRADE OR BUSINESS, IN THE OPINION OF MANAGEMENT, IS NOT MATERIAL TO THE FINANCIAL STATEMENTS AS A WHOLE. IN ADDITION, THE CLUB IS SUBJECT TO INCOME TAX ON CERTAIN POLITICAL ACTIVITIES, OF WHICH THERE WAS $26,600 FOR THE SIXTH-MONTH PERIOD ENDED JUNE 30, 2025. AS REQUIRED BY U.S. GAAP, THE CLUB HAS IDENTIFIED AND EVALUATED ITS SIGNIFICANT TAX POSITIONS FOR WHICH THE STATUTE OF LIMITATIONS REMAIN OPEN AND DETERMINED THERE IS NO MATERIAL UNRECOGNIZED TAX BENEFIT OR LIABILITY TO BE RECORDED.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART XI, LINE 2D - OTHER ADJUSTMENTS:</FormAndLineReferenceDesc>
+        <ExplanationTxt>RECLASS FUNDRAISING REIMBURSEMENTS FROM FOUNDATION 5,500,000. SEGREGATED FUND ELIMINATIONS 146,814. RECLASS COST OF GOODS SOLD TO REVENUE 304,776. RECLASS FUNDRAISING EXPENSES TO REVENUE 2,064.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART XII, LINE 2D - OTHER ADJUSTMENTS:</FormAndLineReferenceDesc>
+        <ExplanationTxt>RECLASS FUNDRAISING REIMBURSEMENTS FROM FOUNDATION 5,500,000. SEGREGATED FUND ELIMINATIONS 78,744. RECLASS COST OF GOODS SOLD TO REVENUE 304,776. CHANGE IN VALUE OF PENSION PLAN -1,234,700. RECLASS FUNDRAISING EXPENSES TO REVENUE 2,064.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleD>
+    <IRS990ScheduleG documentId="RetDoc1041200001">
+      <MailSolicitationsInd>X</MailSolicitationsInd>
+      <EmailSolicitationsInd>X</EmailSolicitationsInd>
+      <PhoneSolicitationsInd>X</PhoneSolicitationsInd>
+      <InPersonSolicitationsInd>X</InPersonSolicitationsInd>
+      <SolicitationOfNonGovtGrantsInd>X</SolicitationOfNonGovtGrantsInd>
+      <SpecialFundraisingEventsInd>X</SpecialFundraisingEventsInd>
+      <AgrmtProfFundraisingActyInd>1</AgrmtProfFundraisingActyInd>
+      <FundraiserActivityInfoGrp>
+        <OrganizationBusinessName>
+          <BusinessNameLine1Txt>MARKETEAM LLC</BusinessNameLine1Txt>
+        </OrganizationBusinessName>
+        <USAddress>
+          <AddressLine1Txt>500 NORTHPARK TOWN CENTER 1100 ABER</AddressLine1Txt>
+          <CityNm>ATLANTA</CityNm>
+          <StateAbbreviationCd>GA</StateAbbreviationCd>
+          <ZIPCd>30328</ZIPCd>
+        </USAddress>
+        <ActivityTxt>DIRECT MAIL</ActivityTxt>
+        <FundraiserControlOfFundsInd>0</FundraiserControlOfFundsInd>
+        <GrossReceiptsAmt>2006624</GrossReceiptsAmt>
+        <RetainedByContractorAmt>10692</RetainedByContractorAmt>
+        <NetToOrganizationAmt>1995932</NetToOrganizationAmt>
+      </FundraiserActivityInfoGrp>
+      <FundraiserActivityInfoGrp>
+        <OrganizationBusinessName>
+          <BusinessNameLine1Txt>TELEFUND INC</BusinessNameLine1Txt>
+        </OrganizationBusinessName>
+        <USAddress>
+          <AddressLine1Txt>294 WASHINGTON ST SUITE 501</AddressLine1Txt>
+          <CityNm>BOSTON</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>02108</ZIPCd>
+        </USAddress>
+        <ActivityTxt>TELEMARKETING</ActivityTxt>
+        <FundraiserControlOfFundsInd>0</FundraiserControlOfFundsInd>
+        <GrossReceiptsAmt>109112</GrossReceiptsAmt>
+        <RetainedByContractorAmt>54671</RetainedByContractorAmt>
+        <NetToOrganizationAmt>54441</NetToOrganizationAmt>
+      </FundraiserActivityInfoGrp>
+      <FundraiserActivityInfoGrp>
+        <OrganizationBusinessName>
+          <BusinessNameLine1Txt>SD&amp;A TELESERVICES INC</BusinessNameLine1Txt>
+        </OrganizationBusinessName>
+        <USAddress>
+          <AddressLine1Txt>5757 W CENTURY BLVD SUITE 300</AddressLine1Txt>
+          <CityNm>LOS ANGELES</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90045</ZIPCd>
+        </USAddress>
+        <ActivityTxt>TELEMARKETING</ActivityTxt>
+        <FundraiserControlOfFundsInd>0</FundraiserControlOfFundsInd>
+        <GrossReceiptsAmt>46529</GrossReceiptsAmt>
+        <RetainedByContractorAmt>220497</RetainedByContractorAmt>
+        <NetToOrganizationAmt>-173968</NetToOrganizationAmt>
+      </FundraiserActivityInfoGrp>
+      <FundraiserActivityInfoGrp>
+        <OrganizationBusinessName>
+          <BusinessNameLine1Txt>DIGITAL MEDIA SOLUTIONS LLC</BusinessNameLine1Txt>
+        </OrganizationBusinessName>
+        <USAddress>
+          <AddressLine1Txt>4800 140TH AVE N SUITE 101</AddressLine1Txt>
+          <CityNm>CLEARWATER</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33762</ZIPCd>
+        </USAddress>
+        <ActivityTxt>DIGITAL FUNDRAISING</ActivityTxt>
+        <FundraiserControlOfFundsInd>0</FundraiserControlOfFundsInd>
+        <GrossReceiptsAmt>14492</GrossReceiptsAmt>
+        <RetainedByContractorAmt>5772</RetainedByContractorAmt>
+        <NetToOrganizationAmt>8720</NetToOrganizationAmt>
+      </FundraiserActivityInfoGrp>
+      <FundraiserActivityInfoGrp>
+        <OrganizationBusinessName>
+          <BusinessNameLine1Txt>GORDON &amp; SCHWENKMEYER INC</BusinessNameLine1Txt>
+        </OrganizationBusinessName>
+        <USAddress>
+          <AddressLine1Txt>20300 S VERMONT AVE SUITE 210</AddressLine1Txt>
+          <CityNm>TORRANCE</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90502</ZIPCd>
+        </USAddress>
+        <ActivityTxt>TELEMARKETING</ActivityTxt>
+        <FundraiserControlOfFundsInd>0</FundraiserControlOfFundsInd>
+        <GrossReceiptsAmt>505</GrossReceiptsAmt>
+        <RetainedByContractorAmt>16171</RetainedByContractorAmt>
+        <NetToOrganizationAmt>-15666</NetToOrganizationAmt>
+      </FundraiserActivityInfoGrp>
+      <FundraiserActivityInfoGrp>
+        <OrganizationBusinessName>
+          <BusinessNameLine1Txt>AUBRY &amp; CO</BusinessNameLine1Txt>
+        </OrganizationBusinessName>
+        <USAddress>
+          <AddressLine1Txt>9000 SUNSET BLVD SUITE 300</AddressLine1Txt>
+          <CityNm>WEST HOLLYWOOD</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>90069</ZIPCd>
+        </USAddress>
+        <ActivityTxt>DEVELOP &amp; SECURE CORPORATE SPONSORSHIPS</ActivityTxt>
+        <FundraiserControlOfFundsInd>0</FundraiserControlOfFundsInd>
+        <GrossReceiptsAmt>0</GrossReceiptsAmt>
+        <RetainedByContractorAmt>30000</RetainedByContractorAmt>
+        <NetToOrganizationAmt>-30000</NetToOrganizationAmt>
+      </FundraiserActivityInfoGrp>
+      <TotalGrossReceiptsAmt>2177262</TotalGrossReceiptsAmt>
+      <TotalRetainedByContractorsAmt>337803</TotalRetainedByContractorsAmt>
+      <TotalNetToOrganizationAmt>1839459</TotalNetToOrganizationAmt>
+      <LicensedStatesCd>AL</LicensedStatesCd>
+      <LicensedStatesCd>AK</LicensedStatesCd>
+      <LicensedStatesCd>AZ</LicensedStatesCd>
+      <LicensedStatesCd>AR</LicensedStatesCd>
+      <LicensedStatesCd>CA</LicensedStatesCd>
+      <LicensedStatesCd>CO</LicensedStatesCd>
+      <LicensedStatesCd>CT</LicensedStatesCd>
+      <LicensedStatesCd>FL</LicensedStatesCd>
+      <LicensedStatesCd>GA</LicensedStatesCd>
+      <LicensedStatesCd>HI</LicensedStatesCd>
+      <LicensedStatesCd>IL</LicensedStatesCd>
+      <LicensedStatesCd>IN</LicensedStatesCd>
+      <LicensedStatesCd>KS</LicensedStatesCd>
+      <LicensedStatesCd>KY</LicensedStatesCd>
+      <LicensedStatesCd>LA</LicensedStatesCd>
+      <LicensedStatesCd>ME</LicensedStatesCd>
+      <LicensedStatesCd>MD</LicensedStatesCd>
+      <LicensedStatesCd>MA</LicensedStatesCd>
+      <LicensedStatesCd>MI</LicensedStatesCd>
+      <LicensedStatesCd>MN</LicensedStatesCd>
+      <LicensedStatesCd>MS</LicensedStatesCd>
+      <LicensedStatesCd>MO</LicensedStatesCd>
+      <LicensedStatesCd>MT</LicensedStatesCd>
+      <LicensedStatesCd>NV</LicensedStatesCd>
+      <LicensedStatesCd>NH</LicensedStatesCd>
+      <LicensedStatesCd>NJ</LicensedStatesCd>
+      <LicensedStatesCd>NM</LicensedStatesCd>
+      <LicensedStatesCd>NY</LicensedStatesCd>
+      <LicensedStatesCd>NC</LicensedStatesCd>
+      <LicensedStatesCd>ND</LicensedStatesCd>
+      <LicensedStatesCd>OH</LicensedStatesCd>
+      <LicensedStatesCd>OK</LicensedStatesCd>
+      <LicensedStatesCd>OR</LicensedStatesCd>
+      <LicensedStatesCd>PA</LicensedStatesCd>
+      <LicensedStatesCd>PR</LicensedStatesCd>
+      <LicensedStatesCd>RI</LicensedStatesCd>
+      <LicensedStatesCd>SC</LicensedStatesCd>
+      <LicensedStatesCd>TN</LicensedStatesCd>
+      <LicensedStatesCd>UT</LicensedStatesCd>
+      <LicensedStatesCd>VA</LicensedStatesCd>
+      <LicensedStatesCd>WA</LicensedStatesCd>
+      <LicensedStatesCd>WV</LicensedStatesCd>
+      <LicensedStatesCd>WI</LicensedStatesCd>
+      <LicensedStatesCd>DE</LicensedStatesCd>
+      <LicensedStatesCd>ID</LicensedStatesCd>
+      <LicensedStatesCd>IA</LicensedStatesCd>
+      <LicensedStatesCd>NE</LicensedStatesCd>
+      <LicensedStatesCd>SD</LicensedStatesCd>
+      <LicensedStatesCd>TX</LicensedStatesCd>
+      <LicensedStatesCd>VT</LicensedStatesCd>
+      <LicensedStatesCd>WY</LicensedStatesCd>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE G, PART I, LINE 2B, COLUMN (V)</FormAndLineReferenceDesc>
+        <ExplanationTxt>SIERRA CLUB PAID TELEFUND, INC. $7,033 FOR FUNDRAISING EXPENSES AND $54,670 FOR PROFESSIONAL FUNDRAISING SERVICES IN 2025. THE CLUB'S PAYMENTS WERE MADE IN ACCORDANCE WITH THE TERMS OF THE PROFESSIONAL FUNDRAISING SERVICES AGREEMENT, WHICH DISTINGUISHES BETWEEN FEES FOR PROFESSIONAL FUNDRAISING SERVICES AND REIMBURSABLE FUNDRAISING EXPENSES. THE CLUB DID NOT ENTER INTO ARRANGEMENTS IN WHICH IT PAID ONLY EXPENSES WITHOUT ALSO PAYING FUNDRAISING FEES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleG>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <GrantRecordsMaintainedInd>1</GrantRecordsMaintainedInd>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>WOMEN'S MARCH INC</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>400 JAY ST 231</AddressLine1Txt>
+          <CityNm>BROOKLYN</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>11201</ZIPCd>
+        </USAddress>
+        <RecipientEIN>814571869</RecipientEIN>
+        <IRCSectionDesc>501(C)(4)</IRCSectionDesc>
+        <CashGrantAmt>100000</CashGrantAmt>
+        <NonCashAssistanceAmt>0</NonCashAssistanceAmt>
+        <PurposeOfGrantTxt>ENVIRONMENTAL PROTECTION</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>CHESAPEAKE CLIMATE ACTION NETWORK ACTION FUND</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>6930 CARROLL AVE STE 720</AddressLine1Txt>
+          <CityNm>TAKOMA PARK</CityNm>
+          <StateAbbreviationCd>MD</StateAbbreviationCd>
+          <ZIPCd>20912</ZIPCd>
+        </USAddress>
+        <RecipientEIN>010879928</RecipientEIN>
+        <IRCSectionDesc>501(C)(4)</IRCSectionDesc>
+        <CashGrantAmt>35000</CashGrantAmt>
+        <NonCashAssistanceAmt>0</NonCashAssistanceAmt>
+        <PurposeOfGrantTxt>ENVIRONMENTAL PROTECTION</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>ARKANSAS ADVANCED ENERGY ASSOCIATION</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>411 S VICTORY ST STE 207</AddressLine1Txt>
+          <CityNm>LITTLE ROCK</CityNm>
+          <StateAbbreviationCd>AR</StateAbbreviationCd>
+          <ZIPCd>72201</ZIPCd>
+        </USAddress>
+        <RecipientEIN>453724039</RecipientEIN>
+        <IRCSectionDesc>501(C)(6)</IRCSectionDesc>
+        <CashGrantAmt>28000</CashGrantAmt>
+        <NonCashAssistanceAmt>0</NonCashAssistanceAmt>
+        <PurposeOfGrantTxt>ENVIRONMENTAL PROTECTION</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>JESUS PEOPLE AGAINST POLLUTION</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 765</AddressLine1Txt>
+          <CityNm>COLUMBIA</CityNm>
+          <StateAbbreviationCd>MS</StateAbbreviationCd>
+          <ZIPCd>39429</ZIPCd>
+        </USAddress>
+        <RecipientEIN>640837014</RecipientEIN>
+        <IRCSectionDesc>501(C)(3)</IRCSectionDesc>
+        <CashGrantAmt>50000</CashGrantAmt>
+        <NonCashAssistanceAmt>0</NonCashAssistanceAmt>
+        <PurposeOfGrantTxt>ENVIRONMENTAL PROTECTION</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>MALAMA LEARNING CENTER</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 1662</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>96806</ZIPCd>
+        </USAddress>
+        <RecipientEIN>200442056</RecipientEIN>
+        <IRCSectionDesc>501(C)(3)</IRCSectionDesc>
+        <CashGrantAmt>8226</CashGrantAmt>
+        <NonCashAssistanceAmt>0</NonCashAssistanceAmt>
+        <PurposeOfGrantTxt>ENVIRONMENTAL PROTECTION</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>WV ENVIRONMENTAL COUNCIL</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 1007</AddressLine1Txt>
+          <CityNm>CHARLESTON</CityNm>
+          <StateAbbreviationCd>WV</StateAbbreviationCd>
+          <ZIPCd>25324</ZIPCd>
+        </USAddress>
+        <RecipientEIN>550728622</RecipientEIN>
+        <IRCSectionDesc>501(C)(4)</IRCSectionDesc>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <NonCashAssistanceAmt>0</NonCashAssistanceAmt>
+        <PurposeOfGrantTxt>ENVIRONMENTAL PROTECTION</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>FERIA CALLE</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <ForeignAddress>
+          <AddressLine1Txt>1016 AV DE LA CONSTITUCION</AddressLine1Txt>
+          <CityNm>SAN JUAN</CityNm>
+          <CountryCd>RQ</CountryCd>
+          <ForeignPostalCd>00925</ForeignPostalCd>
+        </ForeignAddress>
+        <RecipientEIN>661110182</RecipientEIN>
+        <IRCSectionDesc>501(C)(3)</IRCSectionDesc>
+        <CashGrantAmt>8000</CashGrantAmt>
+        <NonCashAssistanceAmt>0</NonCashAssistanceAmt>
+        <PurposeOfGrantTxt>ENVIRONMENTAL PROTECTION</PurposeOfGrantTxt>
+      </RecipientTable>
+      <Total501c3OrgCnt>3</Total501c3OrgCnt>
+      <TotalOtherOrgCnt>4</TotalOtherOrgCnt>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART I, LINE 2:</FormAndLineReferenceDesc>
+        <ExplanationTxt>PROJECT MANAGERS WORK WITH FIELD STAFF TO MONITOR THE USE OF FUNDS THAT ARE GRANTED LOCALLY IN THE FIELD. OUR GRANT AGREEMENTS REQUIRE THAT THE GRANTEE EITHER PROVIDE DOCUMENTATION OF WORK AND RELATED GRANT EXPENSES OR AGREE TO BE AUDITED.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleI>
+    <IRS990ScheduleM documentId="RetDoc1042900001">
+      <SecuritiesPubliclyTradedGrp>
+        <NonCashCheckboxInd>X</NonCashCheckboxInd>
+        <ContributionCnt>4</ContributionCnt>
+        <NoncashContributionsRptF990Amt>303394</NoncashContributionsRptF990Amt>
+        <MethodOfDeterminingRevenuesTxt>FAIR MARKET VALUE</MethodOfDeterminingRevenuesTxt>
+      </SecuritiesPubliclyTradedGrp>
+      <Form8283ReceivedCnt>0</Form8283ReceivedCnt>
+      <AnyPropertyThatMustBeHeldInd>0</AnyPropertyThatMustBeHeldInd>
+      <ReviewProcessUnusualNCGiftsInd>1</ReviewProcessUnusualNCGiftsInd>
+      <ThirdPartiesUsedInd>1</ThirdPartiesUsedInd>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART I, COLUMN (B):</FormAndLineReferenceDesc>
+        <ExplanationTxt>THIS COLUMN REFLECTS THE NUMBER OF DONATIONS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>PART I, LINE 32B:</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE SIERRA CLUB MAY RETAIN QUALIFIED BROKERS FOR THE SALE OF PROPERTY RECEIVED BY THE ORGANIZATION AS GIFTS. THIS SERVICE WAS NOT USED IN 2025.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleM>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART III, LINE 1, DESCRIPTION OF ORGANIZATION MISSION:</FormAndLineReferenceDesc>
+        <ExplanationTxt>TO EXPLORE, ENJOY, AND PROTECT THE WILD PLACES OF THE EARTH; PRACTICE AND PROMOTE RESPONSIBLE USE OF THE EARTH'S ECOSYSTEMS AND RESOURCES; EDUCATE AND ENLIST HUMANITY TO PROTECT AND RESTORE THE QUALITY OF THE NATURAL AND HUMAN ENVIRONMENT; AND USE ALL LAWFUL MEANS TO CARRY OUT THESE OBJECTIVES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART III, LINE 4A, PROGRAM SERVICE ACCOMPLISHMENTS:</FormAndLineReferenceDesc>
+        <ExplanationTxt>OVERVIEW: THROUGHOUT 2025, WE CONTINUED PROGRESS TOWARD THE GOALS LAID OUT IN OUR 2030 STRATEGIC FRAMEWORK. WE CONTINUE TO APPLY AN ENVIRONMENTAL JUSTICE LENS TO ALL THE WORK WE DO TO PROTECT OUR LANDS, AIR, WATER, WILDLIFE, AND PUBLIC HEALTH, AND TO TACKLE THE CLIMATE CRISIS. OUR CLIMATE WORK LARGELY FOCUSES ON EFFORTS TO BUILD A CLEAN ENERGY FUTURE THAT WILL RESULT IN SAFER AIR AND WATER, GOOD JOBS, AND MORE AFFORDABLE ENERGY PRICES FOR CONSUMERS. GRASSROOTS STRONG: THE HEART OF SIERRA CLUB'S ENDURING STRENGTH AND UNIQUE EFFECTIVENESS IS OUR GRASSROOTS NETWORK OF 64 CHAPTERS, STATE AND LOCAL VOLUNTEER GROUPS, OUTINGS LEADERS, MEMBERS, AND ALL OF THE SIERRA CLUB SUPPORTERS AND PARTNERS. THEY ARE WHAT SET US APART AS THE POWERFUL AND UNIQUELY EFFECTIVE ORGANIZATION WE ARE. THE AUTHENTIC LOCAL RELATIONSHIPS OUR CHAPTER STAFF AND VOLUNTEERS CONTINUE TO BUILD IN COMMUNITIES ACROSS THE COUNTRY ARE HOW WE ARE GROWING OUR MOVEMENT TO PROTECT OUR LANDS, AIR, AND WATER, AND TACKLE THE CLIMATE AND EXTINCTION CRISES. BEYOND COAL: IN 2025, SIERRA CLUB'S BEYOND COAL CAMPAIGN ADVANCED GRID DECARBONIZATION AND ENERGY AFFORDABILITY. THE CAMPAIGN EXPANDED ADVOCACY IN MORE THAN 30 STATES. THE CAMPAIGN MARKED MAJOR PUBLIC HEALTH MILESTONES: COAL PLANT RETIREMENTS DRIVEN BY THE CAMPAIGN'S WORK HAVE HELPED PREVENT 60,000 PREMATURE DEATHS, 100,000 HEART ATTACKS, AND ONE MILLION ASTHMA ATTACKS. WORKING WITH COMMUNITIES AND THROUGH LEGAL ACTION, THE CAMPAIGN ALSO DEFENDED AND ACCELERATED CLEAN ENERGY DEPLOYMENT. BEYOND DIRTY FUELS: IN 2025, SIERRA CLUB'S BEYOND DIRTY FUELS CAMPAIGN CONTINUED TO WORK TO MOVE THE COUNTRY BEYOND ALL FOSSIL FUELS TO PROTECT OUR HEALTH AND SECURE A LIVABLE FUTURE BY TRANSITIONING AMERICA TO CLEAN, RENEWABLE ENERGY. IT ORGANIZED AND STRENGTHENED COMMUNITY POWER TO DRIVE TARGETED LOCAL, STATE, AND FEDERAL OUTCOMES VIA GRASSROOTS MOBILIZATION, COALITION PARTNERSHIP, PUBLIC EDUCATION, AND LITIGATION. THE CAMPAIGN BUILT DURABLE PUBLIC ENGAGEMENT, CONVENED AND TRAINED THOUSANDS OF ADVOCATES THROUGH LIVESTREAM EDUCATION AND ORGANIZING PROGRAMS, AND CHALLENGED MISLEADING AND FALSE NARRATIVES IN COMMUNITIES AND THE MEDIA. CLEAN TRANSPORTATION FOR ALL: IN 2025, SIERRA CLUB'S CLEAN TRANSPORTATION FOR ALL CAMPAIGN WORKED TO CURB POLLUTION IN THE TRANSPORTATION SECTOR BY DEFENDING RECENT PROGRESS ON IMPROVED EMISSION STANDARDS AND ELECTRIC VEHICLE (EV) CHARGING INFRASTRUCTURE. THE CAMPAIGN LED IMPORTANT PUBLIC ENGAGEMENT THROUGH NATIONAL DRIVE ELECTRIC MONTH, HOSTING COMMUNITY EVENTS ZERO-EMISSION CARS, TRUCKS, BUSES, AND BIKES WHILE SHARING TIMELY INFORMATION ON EV INCENTIVES AMID SHIFTING FEDERAL FUNDING AND TAX CREDITS. REDUCING CLIMATE POLLUTION FROM BUILDINGS: IN 2025, SIERRA CLUB'S BUILDING ELECTRIFICATION/CLEAN HEAT CAMPAIGN DEFENDED AND ADVANCED THE SHIFT TO CLEANER, SAFER, MORE AFFORDABLE HOMES THROUGH EFFICIENT ELECTRIC UPGRADES LIKE HEAT PUMPS AND INDUCTION. THE CAMPAIGN EDUCATED THE PUBLIC AND CONGRESS ABOUT THE BENEFITS ALREADY UNLOCKED BY THE INFLATION REDUCTION ACT, HELPED PROTECT CONSUMER REBATES FOR ENERGY-EFFICIENT APPLIANCES, AND UPDATED GUIDANCE SO HOUSEHOLDS COULD STILL ACCESS HOME ENERGY TAX CREDIT BENEFITS THROUGH THE END OF THE YEAR. IT PROTECTED THE LOW INCOME HOME ENERGY ASSISTANCE PROGRAM (LIHEAP) - A LIFELINE THAT HELPS LOW-INCOME HOUSEHOLDS KEEP HOMES SAFE AND HABITABLE DURING EXTREME HEAT AND COLD - BY ORGANIZING CONSTITUENT LOBBYING VISITS WITH CONGRESSIONAL OFFICES, DIGITAL ACTIONS, AND MORE. THE CAMPAIGN ALSO SCORED SEVERAL MAJOR POLICY WINS AT THE STATE AND LOCAL LEVEL AND DEFENDED ELECTRIFICATION IN COURT. HELPING AMERICANS EXPLORE, ENJOY, AND PROTECT OUR LANDS AND WATERS: IN 2025, SIERRA CLUB'S CONSERVATION AND OUTDOORS WORK DELIVERED MAJOR VICTORIES TO DEFEND PUBLIC LANDS AND EXPAND EQUITABLE ACCESS TO NATURE. THROUGH TARGETED LEGAL AND POLICY VICTORIES, THE ORGANIZATION PROTECTED CONSERVATION LAWS AND WILDLIFE SUCH AS THE GRAY WOLF, BISON, AND RICE'S WHALE. OUR CONSERVATION TEAM CHALLENGED CUTS TO THE NATIONAL PARK SERVICE THAT THREATENED VISITOR SAFETY, WILDLIFE, AND WILDFIRE PREVENTION. AND IT ORGANIZED SUPPORTERS AND ACTIVISTS TO DEFEND TENS OF MILLIONS OF ACRES OF FORESTLANDS THAT PROVIDE CLEAN WATER, WILDLIFE HABITAT, AND IRREPLACEABLE WILDERNESS. SIERRA CLUB ALSO EXPANDED ACCESS TO NATURE AND PROTECTED PARKS AND COMMUNITY GREEN SPACE THROUGH VARIOUS STATE, LOCAL, AND FEDERAL WINS - INCLUDING THE BIPARTISAN EXPLORE ACT. AND THE ORGANIZATION EXPANDED OUTDOOR ACCESS AND PROMOTED WELLNESS THROUGH OUR MILITARY OUTDOORS PROGRAM, WHICH CONTINUED IMPACTFUL PROGRAMMING THAT SUPPORTED THOUSANDS OF VETERANS SEEKING THE PHYSICAL AND MENTAL HEALTH BENEFITS OF TIME OUTSIDE. A 501(C)(4) ORGANIZATION, SIERRA CLUB ENGAGES IN LOBBYING ACTIVITIES AND ENDORSES CANDIDATE CAMPAIGNS THROUGH AFFILIATED POLITICAL ACTION COMMITTEES (PACS).</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION A, LINE 6</FormAndLineReferenceDesc>
+        <ExplanationTxt>ANY PERSON INTERESTED IN ADVANCING THE PURPOSES OF THE SIERRA CLUB MAY BECOME A MEMBER. THERE SHALL BE SEVERAL CLASSES OF MEMBERSHIP: REGULAR, LIFE, AND SUCH OTHER SPECIAL CLASSES AS THE BOARD OF DIRECTORS MAY ESTABLISH.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION A, LINE 7A</FormAndLineReferenceDesc>
+        <ExplanationTxt>BYLAW 4.8: ALL ACTIONS REQUIRING A VOTE OF THE MEMBERSHIP SHALL BE DECIDED BY WRITTEN BALLOTS AS PROVIDED FOR IN BYLAW 5, SECTION 2, AND BYLAW 11. A QUORUM FOR ANY BALLOT OR FOR ANY MEETING OF THE MEMBERS SHALL BE FIVE PERCENT (5%) OF THE MEMBERSHIP ON THE DATE OF RECORD SET BY THE BOARD OF DIRECTORS IN ACCORDANCE WITH LAW. EACH PERSON WHO IS A MEMBER ON THE DATE OF RECORD SHALL BE ELIGIBLE TO VOTE AND SHALL HAVE ONE VOTE ON ANY ISSUE PRESENTED TO THE MEMBERSHIP EXCEPT AS PROVIDED IN PARAGRAPH 5.7. VOTING BY PROXY SHALL NOT BE PERMITTED. SR 4.8.1 VOTING BY MEMBERS: ALL REGULAR AND LIFE MEMBERS OF RECORD ON JANUARY 31 SHALL BE SENT BALLOTS FOR THE ANNUAL ELECTION OF DIRECTORS, AS PROVIDED IN THE BYLAWS PARAGRAPH 4.8 AND 5.6 AND STANDING RULES 4.2.1. EACH SUCH INDIVIDUAL MEMBER SHALL BE SENT ONE BALLOT; JOINT MEMBERSHIPS SHALL RECEIVE TWO BALLOTS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION A, LINE 7B</FormAndLineReferenceDesc>
+        <ExplanationTxt>IN ACCORDANCE WITH CORPORATION LAW SECTION 5057, THE ONLY MEMBERSHIP RIGHTS OF MEMBERS OF THE CLUB ARE THE RIGHTS SPECIFICALLY PROVIDED BY THE ARTICLES, BYLAWS, AND THE CORPORATION LAW. ALL OTHER PRIVILEGES OR OPPORTUNITIES GRANTED TO MEMBERS OF THE CLUB UNDER ITS STANDING RULES, POLICIES, OR THE BYLAWS OR RULES OF CLUB SUB-ENTITIES ARE NOT RIGHTS OF MEMBERSHIP IN THE CLUB FOR PURPOSES OF CORPORATION LAW SECTION 5057.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 11B</FormAndLineReferenceDesc>
+        <ExplanationTxt>A DRAFT OF THE FORM 990 IS REVIEWED BY THE FINANCE DEPARTMENT, ASSISTANT TREASURER AND LEGAL COUNSEL. AFTER REVIEW, A COPY IS SENT TO THE AUDIT COMMITTEE, WHICH HAS BEEN DESIGNATED BY THE BOARD OF DIRECTORS TO REVIEW THE 990 ON THEIR BEHALF PRIOR TO FILING. THE DRAFT IS THEN SENT TO THE BOARD OF DIRECTORS PRIOR TO FILING.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 12C</FormAndLineReferenceDesc>
+        <ExplanationTxt>BOARD OF DIRECTORS AND OTHER SENIOR VOLUNTEERS MUST COMPLETE AND SIGN A WRITTEN DISCLOSURE FORM ANNUALLY. KEY EMPLOYEES (CURRENT AND FORMER) ARE RESPONSIBLE FOR DISCLOSING ANY POTENTIAL CONFLICTS OF INTEREST RELATED TO THEIR CLUB ACTIVITIES. THE POLICY IS INCLUDED IN THE EMPLOYEE HANDBOOK. LEGAL COUNSEL WILL INVESTIGATE COMPLAINTS OF VIOLATIONS. WHEN A POTENTIAL CONFLICT IS DISCLOSED BY A BOARD MEMBER, VOLUNTEER OR AN EMPLOYEE, THE HUMAN RESOURCES DEPARTMENT AND/OR LEGAL COUNSEL WILL MAKE A DETERMINATION REGARDING THE APPROPRIATE ACTION IN ORDER TO COMPLY WITH THE CLUB'S POLICIES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 15</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE EXECUTIVE DIRECTOR COMPENSATION IS DETERMINED BY THE BOARD OF DIRECTORS EXECUTIVE COMMITTEE AFTER AN EVALUATION OF PERFORMANCE AND INTERVIEWS WITH APPROPRIATE PARTIES. COMPENSATION IS BASED ON EXTERNAL DATA FROM LIKE ORGANIZATIONS. SALARIES FOR OFFICERS AND KEY EMPLOYEES OTHER THAN THE EXECUTIVE DIRECTOR ARE DETERMINED ACCORDING TO THE CLUB'S ESTABLISHED PROCEDURE AND GUIDELINES FOR ANNUAL MERIT RAISES, AS ADMINISTERED BY THE HUMAN RESOURCES DEPARTMENT, AND APPROVED BY THE BOARD OF DIRECTORS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION C, LINE 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ORGANIZATION'S ARTICLES OF INCORPORATION, BYLAWS, AND STANDING RULES (WHICH CONTAIN THE CONFLICT OF INTEREST POLICY) ARE AVAILABLE ON ITS PUBLIC WEBSITE WWW.SIERRACLUB.ORG. PORTIONS OF THE AUDITED FINANCIAL STATEMENTS ALONG WITH A LINK TO THE FULL AUDITED FINANCIAL STATEMENTS ARE PUBLISHED IN SIERRA MAGAZINE (NOV.-DEC. ISSUE).</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VII:</FormAndLineReferenceDesc>
+        <ExplanationTxt>2025 COMPENSATION IS NOT AVAILABLE AT THE TIME THIS SHORT-YEAR FILING IS DUE. IT WILL BE REPORTED ON FORM 990 FOR FISCAL YEAR ENDED 6/30/2026.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART IX, LINE 11G</FormAndLineReferenceDesc>
+        <ExplanationTxt>FEES &amp; CONCESSIONS: PROGRAM SERVICE EXPENSES 6,558,524. MANAGEMENT AND GENERAL EXPENSES 845,073. FUNDRAISING EXPENSES 2,180,908. TOTAL EXPENSES 9,584,505. STAFF TRAINING/SEARCH: PROGRAM SERVICE EXPENSES 113,712. MANAGEMENT AND GENERAL EXPENSES 14,652. FUNDRAISING EXPENSES 37,813. TOTAL EXPENSES 166,177. CONSULTANTS: PROGRAM SERVICE EXPENSES 3,428,929. MANAGEMENT AND GENERAL EXPENSES 441,821. FUNDRAISING EXPENSES 1,140,225. TOTAL EXPENSES 5,010,975.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART XI, LINE 9:</FormAndLineReferenceDesc>
+        <ExplanationTxt>CHANGE IN VALUE OF PENSION PLAN 1,234,700.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>THE SIERRA CLUB VOTER EDUCATION FUND</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>2101 WEBSTER STREET SUITE 1300</AddressLine1Txt>
+          <CityNm>OAKLAND</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94612</ZIPCd>
+        </USAddress>
+        <EIN>943244759</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB INDEPENDENT ACTION</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>2101 WEBSTER STREET SUITE 1300</AddressLine1Txt>
+          <CityNm>OAKLAND</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94612</ZIPCd>
+        </USAddress>
+        <EIN>272585981</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB POLITICAL COMMITTEE</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>2101 WEBSTER STREET SUITE 1300</AddressLine1Txt>
+          <CityNm>OAKLAND</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94612</ZIPCd>
+        </USAddress>
+        <EIN>942370348</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB NEVADA PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 8096</AddressLine1Txt>
+          <CityNm>RENO</CityNm>
+          <StateAbbreviationCd>NV</StateAbbreviationCd>
+          <ZIPCd>89507</ZIPCd>
+        </USAddress>
+        <EIN>813881275</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>NV</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB INDEPENDENT GEORGIA PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>743 E COLLEGE AVENUE SUITE B</AddressLine1Txt>
+          <CityNm>DECATUR</CityNm>
+          <StateAbbreviationCd>GA</StateAbbreviationCd>
+          <ZIPCd>30030</ZIPCd>
+        </USAddress>
+        <EIN>454845025</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>GA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB COORDINATED GEORGIA PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>743 E COLLEGE AVENUE SUITE B</AddressLine1Txt>
+          <CityNm>DECATUR</CityNm>
+          <StateAbbreviationCd>GA</StateAbbreviationCd>
+          <ZIPCd>30030</ZIPCd>
+        </USAddress>
+        <EIN>454845025</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>GA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB ARIZONA PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>514 W ROOSEVELT STREET</AddressLine1Txt>
+          <CityNm>PHOENIX</CityNm>
+          <StateAbbreviationCd>AZ</StateAbbreviationCd>
+          <ZIPCd>85003</ZIPCd>
+        </USAddress>
+        <EIN>710939731</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>AZ</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>VOTE SIERRA CLUB OF HAWAII</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 2577</AddressLine1Txt>
+          <CityNm>HONOLULU</CityNm>
+          <StateAbbreviationCd>HI</StateAbbreviationCd>
+          <ZIPCd>968030000</ZIPCd>
+        </USAddress>
+        <EIN>364899162</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>HI</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB IL CHAPTER PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>70 E LAKE STREET SUITE 1500</AddressLine1Txt>
+          <CityNm>CHICAGO</CityNm>
+          <StateAbbreviationCd>IL</StateAbbreviationCd>
+          <ZIPCd>60601</ZIPCd>
+        </USAddress>
+        <EIN>300390974</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>IL</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>WI SIERRA CLUB EDUCATION COMMITTEE</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>754 WILLIAMSON STREET</AddressLine1Txt>
+          <CityNm>MADISON</CityNm>
+          <StateAbbreviationCd>WI</StateAbbreviationCd>
+          <ZIPCd>53703</ZIPCd>
+        </USAddress>
+        <EIN>321409689</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>WI</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>KANSAS SIERRA CLUB PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 11415</AddressLine1Txt>
+          <CityNm>OVERLAND PARK</CityNm>
+          <StateAbbreviationCd>KS</StateAbbreviationCd>
+          <ZIPCd>662071415</ZIPCd>
+        </USAddress>
+        <EIN>800479870</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>KS</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB POLITICAL COMMITTEE OF TEXAS</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 4998</AddressLine1Txt>
+          <CityNm>AUSTIN</CityNm>
+          <StateAbbreviationCd>TX</StateAbbreviationCd>
+          <ZIPCd>787654998</ZIPCd>
+        </USAddress>
+        <EIN>261626567</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>TX</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB POLITICAL COMMITTEE - MARYLAND CHAPTER PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 278</AddressLine1Txt>
+          <CityNm>RIVERDALE</CityNm>
+          <StateAbbreviationCd>MD</StateAbbreviationCd>
+          <ZIPCd>207380278</ZIPCd>
+        </USAddress>
+        <EIN>562672579</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>MD</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB HOOSIER CHAPTER PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 8264</AddressLine1Txt>
+          <CityNm>BLOOMINGTON</CityNm>
+          <StateAbbreviationCd>IN</StateAbbreviationCd>
+          <ZIPCd>47407</ZIPCd>
+        </USAddress>
+        <EIN>934650449</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>IN</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>MICHIGAN SIERRA PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>602 W IONIA ST</AddressLine1Txt>
+          <CityNm>LANSING</CityNm>
+          <StateAbbreviationCd>MI</StateAbbreviationCd>
+          <ZIPCd>48933</ZIPCd>
+        </USAddress>
+        <EIN>223935178</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>MI</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>MICHIGAN SIERRA CLUB INDEPENDENT ACTION PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>109 E CESAR E CHAVEZ AVENUE</AddressLine1Txt>
+          <CityNm>LANSING</CityNm>
+          <StateAbbreviationCd>MI</StateAbbreviationCd>
+          <ZIPCd>48906</ZIPCd>
+        </USAddress>
+        <EIN>831295775</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>MI</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>MISSISSIPPI SIERRA CLUB PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>148 OAKHURST TRAIL</AddressLine1Txt>
+          <CityNm>RIDGELAND</CityNm>
+          <StateAbbreviationCd>MS</StateAbbreviationCd>
+          <ZIPCd>39157</ZIPCd>
+        </USAddress>
+        <EIN>454833193</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>MS</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA NH PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>CITIZENS BANK 1 CAPITAL PLAZA STE 4</AddressLine1Txt>
+          <CityNm>CONCORD</CityNm>
+          <StateAbbreviationCd>NH</StateAbbreviationCd>
+          <ZIPCd>03301</ZIPCd>
+        </USAddress>
+        <EIN>010630051</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>NH</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>NC SIERRA CLUB PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>19 W HARGETT STREET SUITE 210</AddressLine1Txt>
+          <CityNm>RALEIGH</CityNm>
+          <StateAbbreviationCd>NC</StateAbbreviationCd>
+          <ZIPCd>27601</ZIPCd>
+        </USAddress>
+        <EIN>813666208</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>NC</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>NORTH STAR CHAPTER SIERRA CLUB POLITICAL COMMITTEE</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>2300 MYRTLE AVE STE 260</AddressLine1Txt>
+          <CityNm>SAINT PAUL</CityNm>
+          <StateAbbreviationCd>MN</StateAbbreviationCd>
+          <ZIPCd>55114</ZIPCd>
+        </USAddress>
+        <EIN>020566571</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>MN</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>OHIO SIERRA CLUB POLITICAL COMMITTEE</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>273 DELAWARE PLACE</AddressLine1Txt>
+          <CityNm>AKRON</CityNm>
+          <StateAbbreviationCd>OH</StateAbbreviationCd>
+          <ZIPCd>44303</ZIPCd>
+        </USAddress>
+        <EIN>341664332</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>OH</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>OREGON SIERRA CLUB PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 42307</AddressLine1Txt>
+          <CityNm>PORTLAND</CityNm>
+          <StateAbbreviationCd>OR</StateAbbreviationCd>
+          <ZIPCd>97242</ZIPCd>
+        </USAddress>
+        <EIN>010931836</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>OR</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>RIO GRANDE CHAPTER OF SIERRA CLUB PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>1807 SECOND STREET UNIT 45</AddressLine1Txt>
+          <CityNm>SANTA FE</CityNm>
+          <StateAbbreviationCd>NM</StateAbbreviationCd>
+          <ZIPCd>87505</ZIPCd>
+        </USAddress>
+        <EIN>811100693</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>NM</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>RIO GRANDE SIERRA CLUB HEALTHY COMMUNITIES</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>3935 ANDERSON AVE SE</AddressLine1Txt>
+          <CityNm>ALBUQUERQUE</CityNm>
+          <StateAbbreviationCd>NM</StateAbbreviationCd>
+          <ZIPCd>87108</ZIPCd>
+        </USAddress>
+        <EIN>850725977</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>NM</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB ABQ MFC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>5000 SEQUOIA RD NW</AddressLine1Txt>
+          <CityNm>ALBUQUERQUE</CityNm>
+          <StateAbbreviationCd>NM</StateAbbreviationCd>
+          <ZIPCd>87120</ZIPCd>
+        </USAddress>
+        <EIN>933586016</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>NM</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>LAS CRUCES SIERRA CLUB PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>3935 ANDERSON AVE SE</AddressLine1Txt>
+          <CityNm>ALBUQUERQUE</CityNm>
+          <StateAbbreviationCd>NM</StateAbbreviationCd>
+          <ZIPCd>87108</ZIPCd>
+        </USAddress>
+        <EIN>872964485</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>NM</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>RIO GRANDE CHAPTER LAS CRUCES PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>7509 SIERRA DE ORO PLACE</AddressLine1Txt>
+          <CityNm>LAS CRUCES</CityNm>
+          <StateAbbreviationCd>NM</StateAbbreviationCd>
+          <ZIPCd>88012</ZIPCd>
+        </USAddress>
+        <EIN>933879661</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>NM</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB SMALL DONOR COMMITTEE</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>1536 WYNKOOP STREET SUITE 200</AddressLine1Txt>
+          <CityNm>DENVER</CityNm>
+          <StateAbbreviationCd>CO</StateAbbreviationCd>
+          <ZIPCd>80202</ZIPCd>
+        </USAddress>
+        <EIN>824800273</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>CO</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB SF BAY CHAPTER CAMPAIGNS CANDIDATE PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>312 CLAY STREET SUITE 300</AddressLine1Txt>
+          <CityNm>OAKLAND</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94607</ZIPCd>
+        </USAddress>
+        <EIN>844941732</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>UTAH SIERRA CLUB POLITICAL COMMITTEE</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>824 SOUTH 400 WEST SUITE B103</AddressLine1Txt>
+          <CityNm>SALT LAKE CITY</CityNm>
+          <StateAbbreviationCd>UT</StateAbbreviationCd>
+          <ZIPCd>84101</ZIPCd>
+        </USAddress>
+        <EIN>365011489</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>UT</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>VIRGINIA CHAPTER SIERRA CLUB POLITICAL ACTION COMMITTEE</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>100 W FRANKLIN ST MEZZANINE</AddressLine1Txt>
+          <CityNm>RICHMOND</CityNm>
+          <StateAbbreviationCd>VA</StateAbbreviationCd>
+          <ZIPCd>23220</ZIPCd>
+        </USAddress>
+        <EIN>510647000</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>VA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB PAC WA STATE</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>946 SW BERRY LAKE RD</AddressLine1Txt>
+          <CityNm>PORT ORCHARD</CityNm>
+          <StateAbbreviationCd>WA</StateAbbreviationCd>
+          <ZIPCd>983677564</ZIPCd>
+        </USAddress>
+        <EIN>010872312</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>WA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB HEALTHY COMMUNITIES PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>946 SW BERRY LAKE RD</AddressLine1Txt>
+          <CityNm>PORT ORCHARD</CityNm>
+          <StateAbbreviationCd>WA</StateAbbreviationCd>
+          <ZIPCd>983677564</ZIPCd>
+        </USAddress>
+        <EIN>371525718</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>WA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>CALIFORNIA SIERRA CLUB PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>3250 WILSHIRE BLVD STE 1106</AddressLine1Txt>
+          <CityNm>LOS ANGELES</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>900101513</ZIPCd>
+        </USAddress>
+        <EIN>822778208</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>NEW JERSEY SIERRA CLUB PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 269</AddressLine1Txt>
+          <CityNm>GARWOOD</CityNm>
+          <StateAbbreviationCd>NJ</StateAbbreviationCd>
+          <ZIPCd>07027</ZIPCd>
+        </USAddress>
+        <EIN>822008648</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>NJ</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB FLORIDA PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>220 LAKEVIEW DR 305</AddressLine1Txt>
+          <CityNm>WESTON</CityNm>
+          <StateAbbreviationCd>FL</StateAbbreviationCd>
+          <ZIPCd>33326</ZIPCd>
+        </USAddress>
+        <EIN>821980202</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>FL</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>PENNSYLVANIA SIERRA CLUB PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 606</AddressLine1Txt>
+          <CityNm>HARRISBURG</CityNm>
+          <StateAbbreviationCd>PA</StateAbbreviationCd>
+          <ZIPCd>17108</ZIPCd>
+        </USAddress>
+        <EIN>820934859</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>PA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB POLITICAL COMMITTEE NE CHAPTER</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>7020 BURT ST</AddressLine1Txt>
+          <CityNm>OMAHA</CityNm>
+          <StateAbbreviationCd>NE</StateAbbreviationCd>
+          <ZIPCd>68132</ZIPCd>
+        </USAddress>
+        <EIN>822828193</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>NE</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB NEW YORK POLITICAL COMMITTEE</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>744 BROADWAY</AddressLine1Txt>
+          <CityNm>ALBANY</CityNm>
+          <StateAbbreviationCd>NY</StateAbbreviationCd>
+          <ZIPCd>12207</ZIPCd>
+        </USAddress>
+        <EIN>831103288</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>NY</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB MISSOURI CHAPTER POLITICAL COMMITTEE</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 432010</AddressLine1Txt>
+          <CityNm>ST LOUIS</CityNm>
+          <StateAbbreviationCd>MO</StateAbbreviationCd>
+          <ZIPCd>63143</ZIPCd>
+        </USAddress>
+        <EIN>301067095</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>MO</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB OKLAHOMA CHAPTER POLITICAL ACTION COMMITTEE</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 60644</AddressLine1Txt>
+          <CityNm>OKLAHOMA CITY</CityNm>
+          <StateAbbreviationCd>OK</StateAbbreviationCd>
+          <ZIPCd>731460644</ZIPCd>
+        </USAddress>
+        <EIN>824873738</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>OK</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>WEST VIRGINIA SIERRA CLUB PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>518 MARYLAND AVE</AddressLine1Txt>
+          <CityNm>FAIRMONT</CityNm>
+          <StateAbbreviationCd>WV</StateAbbreviationCd>
+          <ZIPCd>26554</ZIPCd>
+        </USAddress>
+        <EIN>831805393</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>WV</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB VERMONT CHAPTER PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>145 BLUE HERON LANE</AddressLine1Txt>
+          <CityNm>N HERO</CityNm>
+          <StateAbbreviationCd>VT</StateAbbreviationCd>
+          <ZIPCd>05474</ZIPCd>
+        </USAddress>
+        <EIN>813880603</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>VT</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>TENNESSEE SIERRA CLUB POLITICAL COMMITTEE</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>500 PARAGON MILLS RD G2</AddressLine1Txt>
+          <CityNm>NASHVILLE</CityNm>
+          <StateAbbreviationCd>TN</StateAbbreviationCd>
+          <ZIPCd>372113734</ZIPCd>
+        </USAddress>
+        <EIN>850756815</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>TN</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>KENTUCKY SIERRA CLUB PAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>1321 ELIZABETH ST</AddressLine1Txt>
+          <CityNm>BOWLING GREEN</CityNm>
+          <StateAbbreviationCd>KY</StateAbbreviationCd>
+          <ZIPCd>42104</ZIPCd>
+        </USAddress>
+        <EIN>863337792</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>KY</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB MASSACHUSETTS IEPAC</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>50 FEDERAL ST FLOOR 3</AddressLine1Txt>
+          <CityNm>BOSTON</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>02110</ZIPCd>
+        </USAddress>
+        <EIN>851961327</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>MA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB MASSACHUSETTS</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>50 FEDERAL ST FLOOR 3</AddressLine1Txt>
+          <CityNm>BOSTON</CityNm>
+          <StateAbbreviationCd>MA</StateAbbreviationCd>
+          <ZIPCd>02110</ZIPCd>
+        </USAddress>
+        <EIN>843585552</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>MA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB SF BAY CHAPTER CAMPAIGNS SLATE MAILER</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>312 CLAY STREET SUITE 300</AddressLine1Txt>
+          <CityNm>OAKLAND</CityNm>
+          <StateAbbreviationCd>CA</StateAbbreviationCd>
+          <ZIPCd>94607</ZIPCd>
+        </USAddress>
+        <EIN>262505161</EIN>
+        <PrimaryActivitiesTxt>POLITICAL ORGANIZATION</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>CA</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>527</ExemptCodeSectionTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>SIERRA CLUB</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>1</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <ReceiptOfIntAnntsRntsRyltsInd>0</ReceiptOfIntAnntsRntsRyltsInd>
+      <GiftGrntOrCapContriToOthOrgInd>0</GiftGrntOrCapContriToOthOrgInd>
+      <GiftGrntCapContriFromOthOrgInd>0</GiftGrntCapContriFromOthOrgInd>
+      <LoansOrGuaranteesToOtherOrgInd>0</LoansOrGuaranteesToOtherOrgInd>
+      <LoansOrGuaranteesFromOthOrgInd>0</LoansOrGuaranteesFromOthOrgInd>
+      <DivRelatedOrganizationInd>0</DivRelatedOrganizationInd>
+      <AssetSaleToOtherOrgInd>0</AssetSaleToOtherOrgInd>
+      <AssetPurchaseFromOtherOrgInd>0</AssetPurchaseFromOtherOrgInd>
+      <AssetExchangeInd>0</AssetExchangeInd>
+      <RentalOfFacilitiesToOthOrgInd>1</RentalOfFacilitiesToOthOrgInd>
+      <RentalOfFcltsFromOthOrgInd>0</RentalOfFcltsFromOthOrgInd>
+      <PerformOfServicesForOthOrgInd>1</PerformOfServicesForOthOrgInd>
+      <PerformOfServicesByOtherOrgInd>0</PerformOfServicesByOtherOrgInd>
+      <SharingOfFacilitiesInd>0</SharingOfFacilitiesInd>
+      <PaidEmployeesSharingInd>0</PaidEmployeesSharingInd>
+      <ReimbursementPaidToOtherOrgInd>0</ReimbursementPaidToOtherOrgInd>
+      <ReimbursementPaidByOtherOrgInd>0</ReimbursementPaidByOtherOrgInd>
+      <TransferToOtherOrgInd>1</TransferToOtherOrgInd>
+      <TransferFromOtherOrgInd>1</TransferFromOtherOrgInd>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>
